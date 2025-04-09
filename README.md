@@ -2,6 +2,8 @@
 记录每天生活。领导时不时来问我工作，用这个保存下工作痕迹。fucker off every fothermucker leaders
 
 一天就安排些琐碎的工作，我tm还要在你问的时候给你总结出1234.傻逼
+#20250409更新
+打包成exe，可以直接运行。
 
 # 生成daily_planner.py的README.md
 
